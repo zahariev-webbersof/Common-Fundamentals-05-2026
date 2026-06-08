@@ -13,6 +13,8 @@ Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahari
 1. [**Git and GitHub**](https://github.com/zahariev-webbersof/Common-Fundamentals-05-2026/blob/main/GIT%20%26%20GITHUB%20TEAM%20CHALLENGE.md)
 
 2. [**HTML and CSS**](https://github.com/zahariev-webbersof/Common-Fundamentals-05-2026/blob/main/HTML-CSS.md)
+   
+3. [**AI Software Product**](https://github.com/zahariev-webbersof/Common-Fundamentals-05-2026/blob/main/AI-Software-Product.md)
 
 ---
 
