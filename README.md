@@ -16,7 +16,7 @@ Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahari
    
 3. [**AI Software Product**](https://github.com/zahariev-webbersof/Common-Fundamentals-05-2026/blob/main/AI-Software-Product.md)
 
-4. [**AI_Full_Stack_Challenge.md**]()
+4. [**AI_Full_Stack_Challenge.md**](https://github.com/zahariev-webbersof/Common-Fundamentals-05-2026/blob/main/AI_Full_Stack_Challenge.md)
 
 ---
 
